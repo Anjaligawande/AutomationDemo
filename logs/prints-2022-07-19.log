@@ -1,0 +1,6 @@
+14:20:58.612 [TestNG-tests-2] DEBUG io.netty.util.internal.ThreadLocalRandom - -Dio.netty.initialSeedUniquifier: 0x81b4c6fae5895d72
+14:20:58.714 [TestNG-tests-1] INFO  resources.Base - browser is initialised
+14:20:58.755 [TestNG-tests-1] INFO  resources.Base - it is restricted user
+14:20:58.755 [TestNG-tests-1] INFO  resources.Base - it is non restricted user
+14:21:42.039 [TestNG-tests-3] INFO  resources.Base - Navigation Bar is displayed
+14:21:42.345 [TestNG-tests-1] INFO  resources.Base - naviagted to login page
